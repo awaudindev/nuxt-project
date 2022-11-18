@@ -8,10 +8,10 @@ module.exports = {
     "./nuxt.config.{js,ts}",
   ],
   theme: {
-    colors: {
-      'gank-gray': '#04101B'
-    },
     extend: {
+      colors: {
+        'gank-gray': '#04101B'
+      }
     },
   },
   plugins: [],
